@@ -1,0 +1,6 @@
+fileformat=eclipse
+filename=/home/lezin/OPM/dataset/CASE9-10/eclipse_grid.grdecl
+rock_list=/home/lezin/OPM/dataset/CASE9-10/rocklist.txt
+boundary_condition_type=2
+flow_direction=0
+sigma=0.011000

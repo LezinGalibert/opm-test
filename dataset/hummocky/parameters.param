@@ -1,0 +1,4 @@
+fileformat=eclipse
+filename=dataset/hummocky/eclipse_grid.grdecl
+rock_list=dataset/hummocky/rocklist.txt
+boundary_condition_type=0

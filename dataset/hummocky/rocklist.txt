@@ -1,0 +1,4 @@
+3
+/rocktypes/rock1.txt
+/rocktypes/rock2.txt
+/rocktypes/rock3.txt

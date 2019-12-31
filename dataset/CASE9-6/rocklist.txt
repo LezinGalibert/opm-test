@@ -1,0 +1,3 @@
+2
+rocktypes/rock1.txt
+rocktypes/rock2.txt

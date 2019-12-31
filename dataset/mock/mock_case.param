@@ -1,0 +1,4 @@
+fileformat=eclipse
+filename=dataset/mock/Mock_case.grdecl
+rock_list=dataset/mock/rocklist.txt
+boundary_condition_type=0
